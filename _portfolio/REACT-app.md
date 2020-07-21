@@ -1,11 +1,17 @@
 ---
-title: "REACT App"
+title: REACT App
+date: 2020-03-21 00:00:00 Z
+categories:
+- Java
+tags:
+- app
+- development
+- java
+- REACT
+- web
 language: Java
-category: Java
-tags: [app, development, java, REACT, web]
 icon: react
 color: lblue
-date: 21-03-2020
 layout: portfolio
 ---
 

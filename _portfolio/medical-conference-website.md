@@ -1,11 +1,11 @@
 ---
-title: "Medical Conference Website"
+title: Medical Conference Website
+date: 2015-05-06 00:00:00 Z
+categories:
+- Wordpress
 language: Wordpress, HTML, CSS
-tags: []
-category: Wordpress
 icon: cell
 color: lblue
-date: 06-05-2015
 layout: portfolio
 ---
 

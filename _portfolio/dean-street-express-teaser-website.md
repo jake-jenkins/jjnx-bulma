@@ -1,29 +1,28 @@
 ---
-title: "Dean Street Express Teaser Website"
-language: Wordpress, HTML, CSS
+title: Dean Street Express Teaser Website
+date: 2014-02-06 00:00:00 Z
+categories:
+- Wordpress
 tags:
-  [
-    56 dean street,
-    concept,
-    dean street express,
-    future,
-    GUM,
-    health,
-    HIV,
-    innovation,
-    marketing,
-    promotion,
-    search engine optimisation,
-    seo,
-    sexual health,
-    tech,
-    website,
-    wordpress,
-  ]
-category: Wordpress
+- 56 dean street
+- concept
+- dean street express
+- future
+- GUM
+- health
+- HIV
+- innovation
+- marketing
+- promotion
+- search engine optimisation
+- seo
+- sexual health
+- tech
+- website
+- wordpress
+language: Wordpress, HTML, CSS
 icon: love
 color: orange
-date: 06-02-2014
 layout: portfolio
 ---
 

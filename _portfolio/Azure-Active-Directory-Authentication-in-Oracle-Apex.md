@@ -1,29 +1,28 @@
 ---
-title: "Azure Active Directory Authentication to Oracle Apex"
-language: Active Directory
+title: Azure Active Directory Authentication to Oracle Apex
+date: 2020-03-01 00:00:00 Z
+categories:
+- Apex
 tags:
-  [
-    active directory,
-    ad,
-    apex,
-    authentication,
-    authorisation,
-    azure,
-    business app,
-    cloud,
-    domain,
-    enterprise,
-    enterprise application,
-    login,
-    oracle,
-    security,
-    single sign on,
-    sso,
-  ]
-category: Apex
+- active directory
+- ad
+- apex
+- authentication
+- authorisation
+- azure
+- business app
+- cloud
+- domain
+- enterprise
+- enterprise application
+- login
+- oracle
+- security
+- single sign on
+- sso
+language: Active Directory
 icon: azure
 color: grey
-date: 01-03-2020
 layout: portfolio
 ---
 

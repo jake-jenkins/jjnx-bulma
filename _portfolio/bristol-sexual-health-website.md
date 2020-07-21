@@ -1,22 +1,21 @@
 ---
-title: "Bristol Sexual Health Website"
+title: Bristol Sexual Health Website
+date: 2008-05-06 00:00:00 Z
+categories:
+- Drupal
+tags:
+- cms
+- drupal
+- marketing
+- promotion
+- search engine optimisation
+- seo
+- social media
+- website
 summary: A drupal website to promote sexual health services in Bristol.
 language: PHP
-tags:
-  [
-    cms,
-    drupal,
-    marketing,
-    promotion,
-    search engine optimisation,
-    seo,
-    social media,
-    website,
-  ]
-category: Drupal
 icon: drupal
 color: grey
-date: 06-05-2008
 layout: portfolio
 ---
 

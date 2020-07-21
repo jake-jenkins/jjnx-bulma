@@ -1,11 +1,13 @@
 ---
-title: "Java Application – Video Demo"
+title: Java Application – Video Demo
+date: 2019-06-01 00:00:00 Z
+categories:
+- Java
+tags:
+- Java
 language: Java
-tags: [Java]
-category: Java
 icon: java
 color: pinkaf
-date: 01-06-2019
 layout: portfolio
 ---
 

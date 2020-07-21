@@ -1,35 +1,34 @@
 ---
-title: "Linux Server Management"
+title: Linux Server Management
+date: 2020-02-06 00:00:00 Z
+categories:
+- Linux
+tags:
+- amazon
+- apache
+- app
+- aws
+- azure
+- cloud
+- dns
+- dns failover
+- drupal
+- lamp
+- lemp
+- linux
+- load balancing
+- mysql
+- nginx
+- php
+- postgres
+- reverse dns
+- stack
+- ubuntu
+- wordpress
 language: LAMP, LEMP, Nginx, Apache
 summary: LEMP, LAMP, Cloud
-tags:
-  [
-    amazon,
-    apache,
-    app,
-    aws,
-    azure,
-    cloud,
-    dns,
-    dns failover,
-    drupal,
-    lamp,
-    lemp,
-    linux,
-    load balancing,
-    mysql,
-    nginx,
-    php,
-    postgres,
-    reverse dns,
-    stack,
-    ubuntu,
-    wordpress,
-  ]
-category: Linux
 icon: ubuntu
 color: lorange
-date: 06-02-2020
 layout: portfolio
 ---
 

@@ -1,24 +1,23 @@
 ---
-title: "Intranet Build – Sharepoint Online – Office365"
-language: Low Code
+title: Intranet Build – Sharepoint Online – Office365
+date: 2019-11-10 00:00:00 Z
+categories:
+- Powershell
 tags:
-  [
-    active directory,
-    communications,
-    intranet,
-    microsoft,
-    modern sharepoint,
-    office,
-    office365,
-    online,
-    sharepoint,
-    strategy,
-    Welsh Language Standards,
-  ]
+- active directory
+- communications
+- intranet
+- microsoft
+- modern sharepoint
+- office
+- office365
+- online
+- sharepoint
+- strategy
+- Welsh Language Standards
+language: Low Code
 icon: intranet
-category: Powershell
 color: red
-date: 10-11-2019
 layout: portfolio
 ---
 

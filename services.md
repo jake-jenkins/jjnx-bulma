@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Services
-permalink: /services/
+permalink: "/services/"
+layout: page
 ---
+
 Content

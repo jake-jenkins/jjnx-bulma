@@ -1,25 +1,24 @@
 ---
-title: "WayGay.co.uk Founder"
-language: PHP
-category: Forums
+title: WayGay.co.uk Founder
+date: 2003-03-05 00:00:00 Z
+categories:
+- Forums
 tags:
-  [
-    campaign,
-    community,
-    forum,
-    LGBT,
-    national lottery,
-    nus,
-    social media,
-    support,
-    universities,
-    university,
-    waygay,
-    website,
-  ]
+- campaign
+- community
+- forum
+- LGBT
+- national lottery
+- nus
+- social media
+- support
+- universities
+- university
+- waygay
+- website
+language: PHP
 icon: wizard
 color: lgreen2
-date: 05-03-2003
 layout: portfolio
 ---
 

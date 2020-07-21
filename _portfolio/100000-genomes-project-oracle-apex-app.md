@@ -1,11 +1,19 @@
 ---
-title: "100,000 Genomes Project"
+title: 100,000 Genomes Project
+date: 2016-05-06 00:00:00 Z
+categories:
+- Apex
+tags:
+- oracle
+- apex
+- businnes
+- enterprise
+- apps
+- applications
+- web
 language: JavaScript, SQL, Oracle Apex App
-category: Apex
-tags: [oracle, apex, businnes, enterprise, apps, applications, web]
 icon: genome
 color: navy
-date: 06-05-2016
 layout: portfolio
 ---
 

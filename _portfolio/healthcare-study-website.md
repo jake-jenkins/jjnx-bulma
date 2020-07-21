@@ -1,11 +1,13 @@
 ---
-title: "Healthcare Study Website"
+title: Healthcare Study Website
+date: 2014-07-06 00:00:00 Z
+categories:
+- Wordpress
+tags:
+- homerton
 language: Wordpress, HTML, CSS
-tags: [homerton]
-category: Wordpress
 icon: wordpress
 color: green
-date: 06-07-2014
 layout: portfolio
 ---
 

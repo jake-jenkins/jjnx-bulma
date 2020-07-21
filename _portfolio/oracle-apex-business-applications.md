@@ -1,29 +1,28 @@
 ---
 title: Oracle Apex Business Applications
-language: CSS, JavaScript, SQL
+date: 2016-03-05 00:00:00 Z
+categories:
+- Apex
 tags:
-  [
-    apex,
-    application express,
-    apps,
-    business,
-    dashboard,
-    data entry,
-    database,
-    desktop,
-    health,
-    mobile,
-    oracle,
-    productivity,
-    rapid app development,
-    software,
-    tablet,
-    web,
-  ]
-category: Apex
+- apex
+- application express
+- apps
+- business
+- dashboard
+- data entry
+- database
+- desktop
+- health
+- mobile
+- oracle
+- productivity
+- rapid app development
+- software
+- tablet
+- web
+language: CSS, JavaScript, SQL
 icon: apps
 color: purple
-date: 05-03-2016
 layout: portfolio
 ---
 
