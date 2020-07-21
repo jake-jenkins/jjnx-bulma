@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<p>&nbsp;</p>
+<div class="container">
+  <nav aria-label="breadcrumb" style="background-color: #f6f8fb;">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="../">Home</a></li>
+      <li class="breadcrumb-item"><a href="/portfolio.html">Portfolio</a></li>
+      <li class="breadcrumb-item active" aria-current="page">
+        {{ page.title | escape }}
+      </li>
+    </ol>
+  </nav>
+
+  <div class="jbox {{ page.color }}">
+    <div class="tags">
+      <h2 class="display-4">{{ page.title | escape }}</h2>
+      <p class="lead">
+        {{ page.summary | escape }}
+      </p>
+      <p>
+        Language: {{ page.language }}
+      </p>
+      {% for tags in page.tags %}
+      <img src="/icons/tag.svg" height="10px" /> {{ tags }} {% endfor %}
+    </div>
+  </div>
+
+  <article
+    class="post h-entry"
+    itemscope
+    itemtype="http://schema.org/BlogPosting"
+  >
+    <header class="post-header">
+      <p class="post-meta">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
+        -%}
+        <time
+          class="dt-published"
+          datetime="{{ page.date | date_to_xmlschema }}"
+          itemprop="datePublished"
+        >
+          {{ page.date | date: date_format }}
+        </time>
+        {%- if page.modified_date -%} ~ {%- assign mdate = page.modified_date |
+        date_to_xmlschema -%}
+        <time
+          class="dt-modified"
+          datetime="{{ mdate }}"
+          itemprop="dateModified"
+        >
+          {{ mdate | date: date_format }}
+        </time>
+        {%- endif -%} {%- if page.author -%} • {% for author in page.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name"
+            >{{ author }}</span
+          ></span
+        >
+        {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
+      </p>
+    </header>
+
+    <div class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+</div>
+
+<script src="/dist/js/jquery-3.4.1.slim.min.js"></script>
+<script>
+  $("#portfolio").toggleClass("jactive");
+</script>

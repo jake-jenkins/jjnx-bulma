@@ -1,0 +1,32 @@
+title: JakeJnx.com
+author:
+  name: Jake Jenkins
+  email: dev@jakejnx.com
+description: >-
+  Jake Jenkins is a front end web developer in South Wales, United Kingdom.
+baseurl: ""
+url: "https://jakejnx.com"
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+   
+theme: minima
+
+plugins:
+ - jekyll-seo-tag
+
+
+collections:
+  portfolio:
+    label: portfolio
+    output: true
+    permalink: /:collection/:categories/:name
