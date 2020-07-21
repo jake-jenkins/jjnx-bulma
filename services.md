@@ -10,7 +10,7 @@ Please note that I am currently working in a full time permanent role and am not
   </div>
 </article>
 
-How can I help?
+<h1 class="subtitle is-1">How I can help?</h1>
 
 <ul>
 <li>Oracle Apex App Development</li>
