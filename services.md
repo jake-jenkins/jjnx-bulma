@@ -4,7 +4,7 @@ permalink: "/services/"
 layout: page
 ---
 
-Content
+I am currently working in a full time permanent role and am not looking for new oppurtunities.
 
 How can I help?
 
