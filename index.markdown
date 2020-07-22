@@ -54,10 +54,20 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 <h3 class="subtitle is-3">Education</h3>
 <div class="columns">
   <div class="column">
-    Skills 1
+    <ul>
+<li>MSc Computing and Information Systems</li>
+<ul>
+<li>ICT Systems Development - Distinction</li>
+<li>Principals of Computing - Merit</li>
+<li>Big Data and Analysis - Merit</li>
+<li>Cyber Security - Distinction</li>
+<li>Software Development - Distinction</li>
+<li>Project Management - Awaiting Result</li>
+</ul>
+</ul>
   </div>
   <div class="column">
-    Skills 2
+    Scerts
   </div>
 </div>
 
@@ -65,10 +75,32 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 <h3 class="subtitle is-3">Other Education</h3>
 <div class="columns">
   <div class="column">
-    Skills 1
+<ul>
+<li>BSc Adult Nursing</li>
+<li>BTEC National Diploma Computer Networking and ICT Support</li>
+<li>GCSE English Language</li>
+<li>GCSE English Literature</li>
+<li>GCSE IT</li>
+<li>GCSE Business Studiets</li>
+<li>GCSE Maths</li>
+<li>GCSE Science</li>
+</ul>
   </div>
   <div class="column">
-    Skills 2
+<ul>
+<li>CodeAcademy Courses
+<ul>
+<li>Python</li>
+<li>Java</li>
+<li>Java Script</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Prince 2 Practitioner</li>
+<li>Prince 2 Foundation</li>
+<li>ITIL Service Design</li>
+</ul>
   </div>
 </div>
 
