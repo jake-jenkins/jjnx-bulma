@@ -14,7 +14,7 @@ layout: home
 Jake Jenkins is a web developer working in South Wales and the South West of England. Experience in NHS and Education sectors. Despite having a number of jobs not entitled web developer, Jake has been consistantly building websites over the past ten years. 
 </p>
 
-<h3>Skills</h3>
+<h2 class="subtitle is-2">Skills</h2>
 <div class="columns">
   <div class="column">
     Skills 1
