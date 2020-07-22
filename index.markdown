@@ -27,7 +27,8 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
   </div>
 </div>
 <p>&nbsp;</p>
-<h3>Education</h3>
+
+<h2 class="subtitle is-2">Education</h2>
 <div class="columns">
   <div class="column">
     Skills 1
@@ -38,7 +39,7 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </div>
 
 <p>&nbsp;</p>
-<h3>Other</h3>
+<h2 class="subtitle is-2">Other Education</h2>
 <div class="columns">
   <div class="column">
     Skills 1
