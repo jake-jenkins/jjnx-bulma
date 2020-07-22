@@ -19,10 +19,9 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
   <div class="column">
     <ul>
 <li>ASP.net</li>
-<li>HTML</li>
-<li>CSS</li>
+<li>HTML 5</li>
+<li>CSS 3</li>
 <li>SASS</li>
-<li>Web Design</li>
 <li>Java Script</li>
 <li>REACT</li>
 <li>NODE.js</li>
@@ -31,7 +30,9 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
   </div>
   <div class="column">
     <ul>
+<li>Web Design</li>
 <li>PHP</li>
+<li>Jekyll</li>
 <li>WordPress</li>
 <li>Drupal</li>
 <li>Grav</li>
@@ -70,7 +71,7 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </ul>
   </div>
   <div class="column">
-    Scerts
+    <img src="/assets/tdc_html.png" alt="HTML">
   </div>
 </div>
 
