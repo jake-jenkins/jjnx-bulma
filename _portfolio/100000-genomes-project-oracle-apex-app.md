@@ -13,7 +13,7 @@ tags:
 - web
 language: JavaScript, SQL, Oracle Apex App
 icon: genome
-color: navy
+color: aqua
 layout: portfolio
 ---
 
