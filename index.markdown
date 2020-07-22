@@ -24,3 +24,13 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
     Skills 3
   </div>
 </div>
+
+<h3>Education</h3>
+<div class="columns">
+  <div class="column">
+    Skills 1
+  </div>
+  <div class="column">
+    Skills 2
+  </div>
+</div>
