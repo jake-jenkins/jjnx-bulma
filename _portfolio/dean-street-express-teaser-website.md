@@ -22,7 +22,7 @@ tags:
 - wordpress
 language: Wordpress, HTML, CSS
 icon: love
-color: fire
+color: orange
 layout: portfolio
 ---
 
