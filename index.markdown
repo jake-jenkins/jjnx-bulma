@@ -18,17 +18,21 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 <div class="columns">
   <div class="column">
     <ul>
-<li>HTML</li>
-<li>CSS</li>
+<li>ASP.net</li>
+<li>HTML 5</li>
+<li>CSS 3</li>
 <li>SASS</li>
-<li>Web Design</li>
 <li>Java Script</li>
+<li>REACT</li>
+<li>NODE.js</li>
 <li>Java</li>
 </ul>
   </div>
   <div class="column">
     <ul>
+<li>Web Design</li>
 <li>PHP</li>
+<li>Jekyll</li>
 <li>WordPress</li>
 <li>Drupal</li>
 <li>Grav</li>
@@ -55,19 +59,20 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 <div class="columns">
   <div class="column">
     <ul>
-<li>MSc Computing and Information Systems</li>
+<li>Post Graduate Diploma Computing and Information Systems (DISTINCTION)</li>
 <ul>
 <li>ICT Systems Development - Distinction</li>
 <li>Principals of Computing - Merit</li>
 <li>Big Data and Analysis - Merit</li>
 <li>Cyber Security - Distinction</li>
 <li>Software Development - Distinction</li>
-<li>Project Management - Awaiting Result</li>
+<li>Project Management - Distinction</li>
 </ul>
 </ul>
   </div>
   <div class="column">
-    Scerts
+    <img src="/assets/tdc_html.PNG" alt="HTML">
+<img src="/assets/tdc_javascript.PNG" alt="JavaScript">
   </div>
 </div>
 
