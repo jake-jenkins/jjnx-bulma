@@ -9,12 +9,12 @@ layout: home
 
 <div class="content">
 
-<h2 class="title is-2">Hey, welcome to the new site.</h2>
+<h2 class="title is-2" style="color: #7918F2;">Hello. Welcome to the new site.</h2>
 <p>
 Jake Jenkins is a web developer working in South Wales and the South West of England. Experience in NHS and Education sectors. Despite having a number of jobs not entitled web developer, Jake has been consistantly building websites over the past ten years. 
 </p>
 
-<h3 class="subtitle is-3">Skills</h3>
+<h3 class="subtitle is-3" style="color: #4801FF;">Skills</h3>
 <div class="columns">
   <div class="column">
     <ul>
@@ -55,7 +55,7 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </div>
 <p>&nbsp;</p>
 
-<h3 class="subtitle is-3">Education</h3>
+<h3 class="subtitle is-3" style="color: #7918F2;">Education</h3>
 <div class="columns">
   <div class="column">
     <ul>
@@ -71,15 +71,17 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </ul>
   </div>
   <div class="column">
-    <img src="/assets/tdc_html.PNG" alt="HTML">
-<img src="/assets/tdc_javascript.PNG" alt="JavaScript">
+    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519" alt="Verfiy HTML certificate"><img src="/assets/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
+
+<a href="https://www.testdome.com/cert/8a81666124a54bc49a7af8d38b118aaf" alt="Verify JavaScript Certificate">
+<img src="/assets/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10% "></a>
   </div>
 </div>
 
 <p>&nbsp;</p>
 <div class="columns">
   <div class="column">
-<h3 class="subtitle is-3">Other Education</h3>
+<h3 class="subtitle is-3" style="color: #4801FF;">Other Education</h3>
 <ul>
 <li>BSc Adult Nursing</li>
 <li>BTEC National Diploma Computer Networking and ICT Support</li>
@@ -92,7 +94,7 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </ul>
   </div>
   <div class="column">
-<h3 class="subtitle is-3">Professional Qualifications</h3>
+<h3 class="subtitle is-3" style="color: #4801FF;">Professional Qualifications</h3>
 <ul>
 <li>CodeAcademy Courses
 <ul>
