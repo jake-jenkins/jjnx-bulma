@@ -7,7 +7,7 @@ tags:
 - Java
 language: Java
 icon: java
-color: pinkaf
+color: ocean
 layout: portfolio
 ---
 
