@@ -7,6 +7,8 @@ layout: home
 <img src="https://picsum.photos/1280/400"><br />
 </figure>
 
+<div class="container">
+
 <h2>Hey, welcome to the new site.</h2>
 <p>
 Jake Jenkins is a web developer working in South Wales and the South West of England. Experience in NHS and Education sectors. Despite having a number of jobs not entitled web developer, Jake has been consistantly building websites over the past ten years. 
@@ -24,7 +26,7 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
     Skills 3
   </div>
 </div>
-
+<p>&nbsp;</p>
 <h3>Education</h3>
 <div class="columns">
   <div class="column">
@@ -33,4 +35,6 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
   <div class="column">
     Skills 2
   </div>
+</div>
+
 </div>
