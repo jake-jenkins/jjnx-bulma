@@ -22,7 +22,7 @@ tags:
 - web
 language: CSS, JavaScript, SQL
 icon: apps
-color: purple
+color: party
 layout: portfolio
 ---
 
