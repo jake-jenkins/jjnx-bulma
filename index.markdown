@@ -17,7 +17,14 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 <h3 class="subtitle is-3">Skills</h3>
 <div class="columns">
   <div class="column">
-    Skills 1
+    <ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>SASS</li>
+<li>Web Design</li>
+<li>Java Script</li>
+<li>Java</li>
+</ul>
   </div>
   <div class="column">
     Skills 2
