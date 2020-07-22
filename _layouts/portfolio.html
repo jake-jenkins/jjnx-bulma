@@ -19,26 +19,6 @@ layout: default
 <h1 class="title">
         {{ page.title | escape }}   
 </h1>
-
-<p>
-<div class="tags">
-  {% for tags in page.tags %}
-      <span class="tag is-link"> {{ tags }} </span>
- {% endfor %}
-</div>
-</p>
-    </div>
-  </div>
-</section>
-
-<div class="container">
-
-<article
-    class="post h-entry"
-    itemscope
-    itemtype="http://schema.org/BlogPosting"
-  >
-    <header class="post-header">
       <p class="post-meta">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
         -%}
@@ -66,7 +46,25 @@ layout: default
         >
         {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
       </p>
-    </header>
+<p>
+<div class="tags">
+  {% for tags in page.tags %}
+      <span class="tag is-link"> {{ tags }} </span>
+ {% endfor %}
+</div>
+</p>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+
+<article
+    class="post h-entry"
+    itemscope
+    itemtype="http://schema.org/BlogPosting"
+  >
+  <p>&nbsp;</p>
 
     <div class="post-content e-content" itemprop="articleBody">
       {{ content }}
