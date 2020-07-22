@@ -6,10 +6,10 @@ layout: page
 
 <div class="content">
 
-<h2 class="title is-2">Social</h2>
+<h1 class="subtitle is-3">Social</h1>
 <p>Links.</p>
 
-<h3 class="subtitle is-3">Send a Message</h3>
+<h1 class="subtitle is-3">Send a Message</h1>
 
 
 <form
