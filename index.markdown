@@ -27,10 +27,26 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </ul>
   </div>
   <div class="column">
-    Skills 2
+    <ul>
+<li>PHP</li>
+<li>WordPress</li>
+<li>Drupal</li>
+<li>Grav</li>
+<li>Search Engine Optimisation</li>
+<li>LAMP and LEMP Stack</li>
+<li>Python</li>
+</ul>
   </div>
   <div class="column">
-    Skills 3
+<ul>
+<li>Linux / UNIX</li>
+<li>Cloud</li>
+<li>Web Server</li>
+<li>MySQL, MS SQL, Oracle, Postgres</li>
+<li>Object Oriented Programming</li>
+<li>Software Development</li>
+<li>Database Design</li>
+</ul>
   </div>
 </div>
 <p>&nbsp;</p>
