@@ -71,8 +71,10 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </ul>
   </div>
   <div class="column">
-    <img src="/assets/tdc_html.PNG" alt="HTML">
-<img src="/assets/tdc_javascript.PNG" alt="JavaScript">
+    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519" alt="Verfiy HTML certificate"><img src="/assets/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
+
+<a href="https://www.testdome.com/cert/8a81666124a54bc49a7af8d38b118aaf" alt="Verify JavaScript Certificate">
+<img src="/assets/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10% "></a>
   </div>
 </div>
 
