@@ -18,7 +18,7 @@ tags:
 - website
 language: PHP
 icon: wizard
-color: rainbow
+color: light-blue
 layout: portfolio
 ---
 
