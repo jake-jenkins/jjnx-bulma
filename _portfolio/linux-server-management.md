@@ -28,7 +28,7 @@ tags:
 language: LAMP, LEMP, Nginx, Apache
 summary: LEMP, LAMP, Cloud
 icon: ubuntu
-color: fire
+color: orange
 layout: portfolio
 ---
 
