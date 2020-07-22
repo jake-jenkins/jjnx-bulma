@@ -7,7 +7,7 @@ layout: default
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/portfolio.html">Portfolio</a></li>
-    <li class="is-active"> {{ page.title | escape }}</li>
+    <li class="is-active">&nbsp; {{ page.title | escape }}</li>
   </ul>
 </nav>
 </div>
@@ -49,7 +49,7 @@ layout: default
 <p>
 <div class="tags">
   {% for tags in page.tags %}
-      <span class="tag is-link"> {{ tags }} </span>
+      <span class="tag is-dark"> {{ tags }} </span>
  {% endfor %}
 </div>
 </p>
