@@ -22,7 +22,7 @@ tags:
 - sso
 language: Active Directory
 icon: azure
-color: grey
+color: green
 layout: portfolio
 ---
 
