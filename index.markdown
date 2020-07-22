@@ -7,10 +7,12 @@ layout: home
 <img src="https://picsum.photos/1280/400"><br />
 </figure>
 
-Hey, welcome to the new site.
+<h2>Hey, welcome to the new site.</h2>
+<p>
+Jake Jenkins is a web developer working in South Wales and the South West of England. Experience in NHS and Education sectors. Despite having a number of jobs not entitled web developer, Jake has been consistantly building websites over the past ten years. 
+</p>
 
-<div class="column is-12">1 colum</div>
-
+<h3>Skills</h3>
 <div class="columns">
   <div class="column">
     Skills 1
