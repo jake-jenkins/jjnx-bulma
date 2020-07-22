@@ -31,7 +31,7 @@ tags:
 summary: Tribal – Student Information Desk – for large university client.
 language: HTML, CSS, JQuery
 icon: crm
-color: navy
+color: party
 layout: portfolio
 ---
 
