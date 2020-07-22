@@ -26,9 +26,9 @@ layout: page
 
 <label class="label">Your messagel:</label>
 <textarea name="message" class="textarea" placeholder="Your Message" rows="10"></textarea>
-
+<br>
 <div class="control">
-  <button type="submit" class="button is-primary">Send</button>
+  <button type="submit" class="button is-success is-medium">Send</button>
 </div>
 </form>
 
