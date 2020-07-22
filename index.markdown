@@ -72,9 +72,9 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </div>
 
 <p>&nbsp;</p>
-<h3 class="subtitle is-3">Other Education</h3>
 <div class="columns">
   <div class="column">
+<h3 class="subtitle is-3">Other Education</h3>
 <ul>
 <li>BSc Adult Nursing</li>
 <li>BTEC National Diploma Computer Networking and ICT Support</li>
@@ -87,6 +87,7 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </ul>
   </div>
   <div class="column">
+<h3 class="subtitle is-3">Professional Qualifications</h3>
 <ul>
 <li>CodeAcademy Courses
 <ul>
