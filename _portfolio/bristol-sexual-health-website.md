@@ -15,7 +15,7 @@ tags:
 summary: A drupal website to promote sexual health services in Bristol.
 language: PHP
 icon: drupal
-color: grey
+color: disco
 layout: portfolio
 ---
 
