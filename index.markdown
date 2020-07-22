@@ -71,7 +71,8 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </ul>
   </div>
   <div class="column">
-    <img src="/assets/tdc_html.png" alt="HTML">
+    <img src="/assets/tdc_html.PNG" alt="HTML">
+<img src="/assets/tdc_javascript.PNG" alt="JavaScript">
   </div>
 </div>
 
