@@ -18,11 +18,14 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 <div class="columns">
   <div class="column">
     <ul>
+<li>ASP.net</li>
 <li>HTML</li>
 <li>CSS</li>
 <li>SASS</li>
 <li>Web Design</li>
 <li>Java Script</li>
+<li>REACT</li>
+<li>NODE.js</li>
 <li>Java</li>
 </ul>
   </div>
