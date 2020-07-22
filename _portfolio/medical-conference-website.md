@@ -5,7 +5,7 @@ categories:
 - Wordpress
 language: Wordpress, HTML, CSS
 icon: cell
-color: kale
+color: teal
 layout: portfolio
 ---
 
