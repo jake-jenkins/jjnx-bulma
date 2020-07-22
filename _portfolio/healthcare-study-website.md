@@ -7,7 +7,7 @@ tags:
 - homerton
 language: Wordpress, HTML, CSS
 icon: wordpress
-color: green
+color: aqua
 layout: portfolio
 ---
 
