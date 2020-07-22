@@ -9,7 +9,7 @@ layout: home
 
 <div class="content">
 
-<h2 class="title is-2" style="color: #7918F2;">Hey, welcome to the new site.</h2>
+<h2 class="title is-2" style="color: #7918F2;">Hello. Welcome to the new site.</h2>
 <p>
 Jake Jenkins is a web developer working in South Wales and the South West of England. Experience in NHS and Education sectors. Despite having a number of jobs not entitled web developer, Jake has been consistantly building websites over the past ten years. 
 </p>
