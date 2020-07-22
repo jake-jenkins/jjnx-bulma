@@ -17,7 +17,7 @@ tags:
 - Welsh Language Standards
 language: Low Code
 icon: intranet
-color: red
+color: yellow
 layout: portfolio
 ---
 
