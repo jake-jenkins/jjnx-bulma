@@ -24,7 +24,7 @@ layout: page
   </div>
 </div>
 
-<label class="label">Your messagel:</label>
+<label class="label">Your message:</label>
 <textarea name="message" class="textarea" placeholder="Your Message" rows="10"></textarea>
 <br>
 <div class="control">
