@@ -9,14 +9,16 @@ layout: home
 
 Hey, welcome to the new site.
 
+<div class="column is-12">1 colum</div>
+
 <div class="columns">
   <div class="column">
-    First column
+    Skills 1
   </div>
   <div class="column">
-    Second column
+    Skills 2
   </div>
   <div class="column">
-    Third column
+    Skills 3
   </div>
 </div>
