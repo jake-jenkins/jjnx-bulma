@@ -7,7 +7,7 @@ layout: home
 <img src="https://picsum.photos/1280/400"><br />
 </figure>
 
-<div class="container">
+<div class="content">
 
 <h2>Hey, welcome to the new site.</h2>
 <p>
