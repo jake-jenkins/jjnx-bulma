@@ -25,3 +25,4 @@ layout: page
 
   <button type="submit">Send</button>
 </form>
+</div>
