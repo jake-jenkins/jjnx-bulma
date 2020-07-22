@@ -11,7 +11,7 @@ tags:
 - web
 language: Java
 icon: react
-color: light-blue
+color: teal
 layout: portfolio
 ---
 
