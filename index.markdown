@@ -55,7 +55,7 @@ Jake Jenkins is a web developer working in South Wales and the South West of Eng
 </div>
 <p>&nbsp;</p>
 
-<h3 class="subtitle is-3">Education</h3>
+<h3 class="subtitle is-3" style="color: #7918F2;">Education</h3>
 <div class="columns">
   <div class="column">
     <ul>
