@@ -1,17 +1,20 @@
 ---
-title: Home
+title: Jake Jenkins | Software Developer
 layout: home
+color: homebg
 ---
 
+<!--
 <figure class="image is-fullwidth">
 <img src="https://picsum.photos/1280/400"><br />
 </figure>
+-->
 
 <div class="content">
 
-<h2 class="title is-2" style="color: #7918F2;">Hello. Welcome to the new site.</h2>
+<h2 class="title is-2" style="color: #7918F2;">Welcome</h2>
 <p>
-Jake Jenkins is a web developer working in South Wales and the South West of England. Experience in NHS and Education sectors. Despite having a number of jobs not entitled web developer, Jake has been consistantly building websites over the past ten years. 
+Jake Jenkins is a Software Developer working in South Wales and the South West of England. Jake Jenkins has experience in NHS and Education sectors including technical and managerial roles. Jake has been consistantly building websites and modern web applications over the past ten years. 
 </p>
 
 <h3 class="subtitle is-3" style="color: #4801FF;">Skills</h3>
