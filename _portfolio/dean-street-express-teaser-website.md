@@ -26,8 +26,6 @@ color: orange
 layout: portfolio
 ---
 
-<h1 class="subtitle" style="color: rgb(253,29,29);">Profile</h1>
-
 A new concept sexual health clinic was opened in central London to reduce rates of HIV
 
 Jake worked with the NHS provider to build and promote a teaser website to drip news about the new service, help get user testing and generate interest in the new service.
