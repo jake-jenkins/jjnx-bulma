@@ -7,31 +7,8 @@ layout: default
 <div class="wave-container {{ page.color }}">
   <h1>{{ page.title | escape }}</h1>
   <p>Check out my awesome waves!</p>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,96L48,90.7C96,85,192,75,288,85.3C384,96,480,128,576,160C672,192,768,224,864,202.7C960,181,1056,107,1152,69.3C1248,32,1344,32,1392,32L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
-</div>
-
-<!-- end waves -->
-
-<div class="container">
- 
-<nav class="breadcrumb" aria-label="breadcrumbs">
-  <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/portfolio.html">Portfolio</a></li>
-    <li class="is-active">&nbsp; {{ page.title | escape }}</li>
-  </ul>
-</nav>
-</div>
-<p>&nbsp;</p>
-<section class="hero is-medium is-bold {{ page.color }}">
-  <div class="hero-body">
-    
-<div class="container">
-      
-<h2 class="subtitle is-2" style="color: #FFF !important;">
-        {{ page.title | escape }}   
-</h2>
-      <p class="post-meta">
+  
+  <p class="post-meta">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
         -%}
         <time
@@ -65,9 +42,24 @@ layout: default
  {% endfor %}
 </div>
 </p>
-    </div>
-  </div>
-</section>
+  
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,96L48,90.7C96,85,192,75,288,85.3C384,96,480,128,576,160C672,192,768,224,864,202.7C960,181,1056,107,1152,69.3C1248,32,1344,32,1392,32L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+</div>
+
+<!-- end waves -->
+
+<div class="container">
+ 
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/portfolio.html">Portfolio</a></li>
+    <li class="is-active">&nbsp; {{ page.title | escape }}</li>
+  </ul>
+</nav>
+</div>
+<p>&nbsp;</p>
 
 <div class="content container">
 
