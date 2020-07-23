@@ -12,7 +12,7 @@ tags:
 - oracle
 - rapid app development
 - web
-language: CSS, JavaScript, SQL, Oracle Apex App
+subtitle: CSS, JavaScript, SQL, Oracle Apex App
 summary: An Oracle Apex app to manage programmes and projects for a university client.
 icon: transportation
 color: green

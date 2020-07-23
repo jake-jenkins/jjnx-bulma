@@ -20,7 +20,7 @@ tags:
 - tech
 - website
 - wordpress
-language: Wordpress, HTML, CSS
+subtitle: Wordpress, HTML, CSS
 icon: love
 color: orange
 layout: portfolio

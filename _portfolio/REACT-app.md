@@ -9,7 +9,7 @@ tags:
 - java
 - REACT
 - web
-language: Java
+subtitle: Java
 icon: react
 color: teal
 layout: portfolio

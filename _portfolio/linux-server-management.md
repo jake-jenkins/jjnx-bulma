@@ -25,7 +25,7 @@ tags:
 - stack
 - ubuntu
 - wordpress
-language: LAMP, LEMP, Nginx, Apache
+subtitle: LAMP, LEMP, Nginx, Apache
 summary: LEMP, LAMP, Cloud
 icon: ubuntu
 color: orange

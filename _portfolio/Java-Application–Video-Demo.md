@@ -5,7 +5,7 @@ categories:
 - Java
 tags:
 - Java
-language: Java
+subtitle: Java
 icon: java
 color: pink
 layout: portfolio

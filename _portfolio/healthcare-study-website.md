@@ -5,7 +5,7 @@ categories:
 - Wordpress
 tags:
 - homerton
-language: Wordpress, HTML, CSS
+subtitle: Wordpress, HTML, CSS
 icon: wordpress
 color: blue
 layout: portfolio

@@ -20,7 +20,7 @@ tags:
 - software
 - tablet
 - web
-language: CSS, JavaScript, SQL
+subtitle: CSS, JavaScript, SQL
 icon: apps
 color: green
 layout: portfolio

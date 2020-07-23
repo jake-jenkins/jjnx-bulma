@@ -20,7 +20,7 @@ tags:
 - security
 - single sign on
 - sso
-language: Active Directory
+subtitle: Active Directory
 icon: azure
 color: teal
 layout: portfolio

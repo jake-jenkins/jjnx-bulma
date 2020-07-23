@@ -13,7 +13,7 @@ tags:
 - social media
 - website
 summary: A drupal website to promote sexual health services in Bristol.
-language: PHP
+subtitle: PHP
 icon: drupal
 color: blue
 layout: portfolio

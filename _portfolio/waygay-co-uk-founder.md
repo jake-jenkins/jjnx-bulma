@@ -16,7 +16,7 @@ tags:
 - university
 - waygay
 - website
-language: PHP
+subtitle: PHP
 icon: wizard
 color: pink
 layout: portfolio

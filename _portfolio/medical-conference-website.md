@@ -3,7 +3,7 @@ title: Medical Conference Website
 date: 2015-05-06 00:00:00 Z
 categories:
 - Wordpress
-language: Wordpress, HTML, CSS
+subtitle: Wordpress, HTML, CSS
 icon: cell
 color: teal
 layout: portfolio

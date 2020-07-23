@@ -29,7 +29,7 @@ tags:
 - web design
 - Welsh Language Standards
 summary: Tribal – Student Information Desk – for large university client.
-language: HTML, CSS, JQuery
+subtitle: HTML, CSS, JQuery
 icon: crm
 color: green
 layout: portfolio
