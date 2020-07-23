@@ -17,6 +17,6 @@ color: purple
 layout: portfolio
 ---
 
-<h1 class="subtitle" style="color: rgb(103,7,180);">Profile</h1>
+<h2 class="subtitle is-2">Profile</h2>
 
 This was the first major app I developed in Oracle Apex to allow research nurses to register patients and collect data for this major health project. The application collected the data which was later exported and sent on to the lab to help build the profiles for participants who were getting their genomes sequenced.
