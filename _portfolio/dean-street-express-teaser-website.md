@@ -26,7 +26,7 @@ color: orange
 layout: portfolio
 ---
 
-<h1 class="subtitle" style="background: rgb(253,29,29);">
+<h1 class="subtitle" style="color: rgb(253,29,29);">Profile</h1>
 
 A new concept sexual health clinic was opened in central London to reduce rates of HIV
 
