@@ -19,6 +19,7 @@ color: blue
 layout: portfolio
 ---
 
+<h2 class="subtitle">Intro</h2>
 Whilst working in the clinic, a competitor private clinic was targeting advertising to people searching for the local NHS service. Tactics were being used which some felt were misleading patients to attend a private clinic who were looking for the publically funded service.
 
 Jake was asked to improve the online presence of the clinic, so built a website using Drupal, with a web template and custom modules. The search presence of the clinic increased rapidly, and increase in attendances were obsereved with an increase in people finding out about the service online.
