@@ -1,6 +1,6 @@
 ---
 title: Dean Street Express Teaser Website
-date: 2014-02-06 00:00:00 Z
+date: 2014-02-06 00:00:00 +00:00
 categories:
 - Wordpress
 tags:
