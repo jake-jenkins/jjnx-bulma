@@ -1,6 +1,6 @@
 ---
 title: JakeJnx.com
-timezone: UTC
+timezone: GMT
 collections:
   portfolio:
     title: Portfolio
@@ -22,9 +22,6 @@ url: https://jakejnx.com
 show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
-  social_links:
-    twitter: jekyllrb
-    github: jekyll
 theme: minima
 plugins:
 - jekyll-seo-tag
