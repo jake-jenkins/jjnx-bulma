@@ -6,10 +6,14 @@ layout: page
 
 <div class="content">
 
-<h1 class="subtitle is-3">Social</h1>
-<p>Links.</p>
+<p>&nbsp;</p><p>
+<img alt="" src="/assets/svgs/github.svg" width="40px"> <a href="https://github.com/JakeJnx">JakeJnx</a><br>
+<img alt="" src="/assets/svgs/twitter.svg" width="40px"> <a href="https://twitter.com/JakeJnx">JakeJnx</a><br>
+<img alt="" src="/assets/svgs/phone.svg" width="40px"> +44 7927 044 111<br>
+</p>
 
-<h1 class="subtitle is-3">Send a Message</h1>
+
+<h1 class="subtitle is-3"><img alt="" src="/assets/svgs/mail.svg" width="40px"> Send a Message</h1>
 
 
 <form
@@ -28,8 +32,6 @@ layout: page
 <textarea name="message" class="textarea" placeholder="Your Message" rows="10"></textarea>
 <br>
 <div class="control">
-  <button type="submit" class="button is-success is-medium">Send</button>
+  <button type="submit" class="button is-dark is-medium">Send</button>
 </div>
 </form>
-
-</div>
