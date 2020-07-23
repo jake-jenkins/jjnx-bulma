@@ -5,8 +5,8 @@ layout: default
 <!-- waves -->
 
 <div class="wave-container {{ page.color }}">
-  <h1>{{ page.title | escape }}</h1>
   <div class="container">
+  <h1>{{ page.title | escape }}</h1>
   <p class="post-meta">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
         -%}
@@ -34,10 +34,11 @@ layout: default
         >
         {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
       </p>
+    <p>
       <div class="tags">
   {% for tags in page.tags %}
       <span class="tag is-dark"> {{ tags }} </span>
- {% endfor %}
+        {% endfor %}</p>
     </div></div>
     
     
