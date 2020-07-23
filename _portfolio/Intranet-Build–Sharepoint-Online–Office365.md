@@ -21,6 +21,8 @@ color: blue
 layout: portfolio
 ---
 
+<h2>About the Intranet Implementation and Build</h2>
+
 A large university in Wales with approximately 3,000 staff required a new intranet solution which integrated with Office 365 and allowed management of bilingual content.
 
 The Welsh Language Standards mandate that both English and Welsh language should be treated equally, where there is content in English, it should also be easily available in Welsh and not in a reduced form.
