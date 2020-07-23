@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-<figure class="image is-fullwidth" style="clip-path: ellipse(100% 55% at 48% 44%);">
+<figure class="image is-fullwidth" style="clip-path: circle(90.5% at 50% 0);">
 <img src="https://picsum.photos/1280/400"><br />
 </figure>
 
