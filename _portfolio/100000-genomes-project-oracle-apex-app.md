@@ -1,6 +1,6 @@
 ---
 title: 100,000 Genomes Project
-date: 2016-05-06 00:00:00 Z
+date: 2016-05-06 00:00:00 +00:00
 categories:
 - Apex
 tags:
