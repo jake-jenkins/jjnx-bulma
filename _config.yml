@@ -1,6 +1,6 @@
 ---
 title: JakeJnx.com
-
+timezone: UTC
 collections:
   portfolio:
     title: Portfolio
