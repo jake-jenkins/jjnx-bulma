@@ -1,0 +1,20 @@
+name: FTP push1
+
+on:
+  push:
+    branches: [ master ]
+jobs:
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.1.0
+      with:
+        fetch-depth: 2
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@3.1.0
+      with:
+        local-dir: _site/
+        ftp-server: ftp://storage.bunnycdn.com
+        ftp-username: jjnx
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
