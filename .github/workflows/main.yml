@@ -1,4 +1,4 @@
-name: FTP push
+name: FTP push1
 
 on:
   push:
