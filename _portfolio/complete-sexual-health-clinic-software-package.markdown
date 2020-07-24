@@ -13,6 +13,7 @@ tags:
 subtitle: Clinic99.com
 icon: 
 color: orange
+layout: portfolio
 ---
 
 Clinic99
