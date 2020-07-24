@@ -12,6 +12,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: portfolio
+  values:
+    layout: portfolio
 author:
   name: Jake Jenkins
   email: dev@jakejnx.com
