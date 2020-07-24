@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Portfolio
 date: 2020-07-21 23:08:00 Z
+layout: page
 ---
 
 <div class="content">
