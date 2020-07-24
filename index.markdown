@@ -4,12 +4,6 @@ layout: home
 color: homebg
 ---
 
-<!--
-<figure class="image is-fullwidth">
-<img src="https://picsum.photos/1280/400"><br />
-</figure>
--->
-
 <div class="content">
 
 <h2 class="title is-2" style="color: #7918F2;">Welcome</h2>
@@ -74,10 +68,10 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </ul>
   </div>
   <div class="column">
-    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519" alt="Verfiy HTML certificate"><img src="/assets/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
+    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519" alt="Verfiy HTML certificate"><img src="https://jjnx.b-cdn.net/assets/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
 
 <a href="https://www.testdome.com/cert/8a81666124a54bc49a7af8d38b118aaf" alt="Verify JavaScript Certificate">
-<img src="/assets/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10% "></a>
+<img src="https://jjnx.b-cdn.net/assets/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10% "></a>
   </div>
 </div>
 
