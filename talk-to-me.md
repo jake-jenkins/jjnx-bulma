@@ -16,15 +16,12 @@ layout: page
 <h1 class="subtitle is-3"><img alt="" src="https://jjnx.b-cdn.net/assets/svgs/mail.svg" width="40px"> Send a Message</h1>
 
 
-<form
-  action="https://formspree.io/mdowygkz"
-  method="POST"
->
+<form name="contact" method="POST" data-netlify="true">
 
 <div class="field">
   <label class="label">Your email:</label>
   <div class="control">
-    <input class="input" type="text" name="_replyto" placeholder="dev@jakejnx.com">
+    <input class="input" type="text" name="email" placeholder="dev@jakejnx.com">
   </div>
 </div>
 
