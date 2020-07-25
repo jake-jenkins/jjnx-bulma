@@ -29,7 +29,7 @@ layout: page
 <textarea name="message" class="textarea" placeholder="Your Message" rows="10"></textarea>
 <br>
 
-<div></div>
+<div data-netlify-recaptcha="true"></div>
 
 <div class="control">
   <button type="submit" class="button is-dark is-medium">Send</button>
