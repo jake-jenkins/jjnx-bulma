@@ -12,6 +12,6 @@ layout: portfolio
 ---
 
 <video width="100%" loop muted autoplay preload="auto">
-    <source src="https://jjnx.b-cdn.net/assets/video/javac.mp4" type="video/mp4" />
+    <source src="https://jjnx.b-cdn.net/video/javac.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>

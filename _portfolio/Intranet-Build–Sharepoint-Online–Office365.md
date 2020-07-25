@@ -26,7 +26,7 @@ A large university in Wales with approximately 3,000 staff required a new intran
 The Welsh Language Standards mandate that both English and Welsh language should be treated equally, where there is content in English, it should also be easily available in Welsh and not in a reduced form.
 
 <div class="text-center">
-<img src="https://jjnx.b-cdn.net/assets/img/portfolio/connect-768x588.png" alt="Sharepoint Online Modern Intranet" class="img-fluid">
+<img src="https://jjnx.b-cdn.net/img/portfolio/connect-768x588.png" alt="Sharepoint Online Modern Intranet" class="img-fluid">
 </div><br>
 
 The University needed to implement a bilingual intranet to a tight deadline to comply with the law. Additionally, there were a number of improvement opportunities identified. Technical challenges were overcome during the project, including emerging technology (with Sharepoint Online), Hub Sites and business change needs.
@@ -36,7 +36,7 @@ The new intranet was developed by Jake and technical colleagues with close suppo
 Jake really enjoyed working with the university and stakeholders on this project and it proves that different departments working collaboratively can produce results with encouragement, ownership, respect and support.
 
 <div class="text-center">
-<img src="https://jjnx.b-cdn.net/assets/img/portfolio/lgbt-768x585.png" alt="Sharepoint Online Modern Intranet" class="img-fluid">
+<img src="https://jjnx.b-cdn.net/img/portfolio/lgbt-768x585.png" alt="Sharepoint Online Modern Intranet" class="img-fluid">
 </div><br>
 
 The university has been through changes in the past, which had led to fragmentation of content and complex structures. There were also 2 separate intranets (one for staff and another for students), using different technologies.

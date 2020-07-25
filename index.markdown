@@ -68,10 +68,10 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </ul>
   </div>
   <div class="column">
-    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519"><img src="https://jjnx.b-cdn.net/assets/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
+    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519"><img src="https://jjnx.b-cdn.net/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
 
 <a href="https://www.testdome.com/cert/8a81666124a54bc49a7af8d38b118aaf">
-<img src="https://jjnx.b-cdn.net/assets/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10% "></a>
+<img src="https://jjnx.b-cdn.net/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10% "></a>
   </div>
 </div>
 
