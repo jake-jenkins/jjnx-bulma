@@ -1,0 +1,6 @@
+---
+title: New Blog
+date: 2020-07-25 18:51:00 Z
+---
+
+This is a new site
