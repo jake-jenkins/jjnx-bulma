@@ -16,7 +16,7 @@ layout: page
 <h1 class="subtitle is-3"><img alt="" src="https://jjnx.b-cdn.net/svgs/mail.svg" width="40px"> Send a Message</h1>
 
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" action="/talk-to-me/success">
 
 <div class="field">
   <label class="label">Your email:</label>
