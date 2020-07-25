@@ -1,6 +1,6 @@
 ---
 title: Intranet Build – Sharepoint Online – Office365
-date: 2019-11-10 00:00:00 +00:00
+date: 2019-11-10 00:00:00 Z
 categories:
 - Powershell
 tags:
