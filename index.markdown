@@ -56,7 +56,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 <div class="columns">
   <div class="column">
     <ul>
-<li>Post Graduate Diploma Computing and Information Systems (DISTINCTION)</li>
+<li>Post Graduate Diploma Computing and Information Systems (DISTINCTION)
 <ul>
 <li>ICT Systems Development - Distinction</li>
 <li>Principals of Computing - Merit</li>
@@ -64,13 +64,13 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 <li>Cyber Security - Distinction</li>
 <li>Software Development - Distinction</li>
 <li>Project Management - Distinction</li>
-</ul>
+</ul></li>
 </ul>
   </div>
   <div class="column">
-    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519" alt="Verfiy HTML certificate"><img src="https://jjnx.b-cdn.net/assets/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
+    <a href="https://www.testdome.com/cert/db957d43b99c49dca1f84c69cb6f8519"><img src="https://jjnx.b-cdn.net/assets/tdc_html.PNG" alt="Jake has passed the HTML/CSS test, ranking in the Top 10% "></a> &nbsp; 
 
-<a href="https://www.testdome.com/cert/8a81666124a54bc49a7af8d38b118aaf" alt="Verify JavaScript Certificate">
+<a href="https://www.testdome.com/cert/8a81666124a54bc49a7af8d38b118aaf">
 <img src="https://jjnx.b-cdn.net/assets/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10% "></a>
   </div>
 </div>
