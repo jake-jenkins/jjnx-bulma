@@ -1,5 +1,6 @@
 ---
 title: JakeJnx.com
+timezone: UTC
 collections:
   portfolio:
     title: Portfolio
@@ -27,7 +28,8 @@ url: https://jakejnx.com
 show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
-include: [_headers]
+include:
+- _headers
 theme: minima
 plugins:
 - jekyll-seo-tag
