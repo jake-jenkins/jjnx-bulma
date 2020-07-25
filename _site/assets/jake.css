@@ -1,100 +1,74 @@
 body {
-    font-size: 1.1em;
+  font-size: 1.1em;
   }
-
   #main-content {
   min-height: calc(100vh - 230px);
   padding: 2rem 0rem !important;
   }
-  
   .navbar-item img {
   max-height: 50px;
   }
-  
   .post-meta {
   color: #fff;
   }
-
   .title {
   color: #7918F2;
   }
-
   .subtitle {
   color: #4801FF;
   }
-  
   .wave-container {
   margin-top: -40px;
   position: relative;
   color: #FFF;
   overflow: hidden;
-}
-  
-.wave-container h1 {
-font-size: 3rem;
-margin: 5rem 0rem 2.5rem 0rem;
-
-}
-  
+  }
+  .wave-container h1 {
+  font-size: 3rem;
+  margin: 5rem 0rem 2.5rem 0rem;
+  }
   .wave-container svg {
-   margin-bottom: -10px; 
-   margin-top: -12%;
+  margin-bottom: -10px; 
+  margin-top: -12%;
   }
-  
   .jjp {
-   margin-bottom: 120px;
-   font-size: 1.2em;
-   margin-left: -1.2rem;
-   margin-right: -1.2rem;
+  margin-bottom: 120px;
+  font-size: 1.2em;
+  margin-left: -1.2rem;
+  margin-right: -1.2rem;
+  } 
+  .homebg {
+  background-image: radial-gradient( circle farthest-corner at -0.1% 100.8%,  rgba(0,234,255,1) 0.2%, rgba(0,124,255,1) 59.1%, rgba(198,0,255,1) 100.2% );
   }
-  
-.homebg2 {
-background-image: url(/assets/img/home.jpg);
-background-repeat: no-repeat;
-background-position: center; 
-background-size:cover;
-}
-
-.homebg {
-background-image: radial-gradient( circle farthest-corner at -0.1% 100.8%,  rgba(0,234,255,1) 0.2%, rgba(0,124,255,1) 59.1%, rgba(198,0,255,1) 100.2% );
-}
-
   .blue {
-    background: rgb(29,33,253);
-    background: linear-gradient(90deg, rgba(29,33,253,1) 50%, rgba(40,225,255,1) 100%); 
+  background: rgb(29,33,253);
+  background: linear-gradient(90deg, rgba(29,33,253,1) 50%, rgba(40,225,255,1) 100%); 
   }
-
   .green {
   background: rgb(7,180,56);
   background: linear-gradient(90deg, rgba(7,180,56,1) 50%, rgba(142,255,40,1) 100%); 
   }
-
   .orange {
   background: rgb(253,29,29);
   background: linear-gradient(90deg, rgba(253,29,29,1) 50%, rgba(255,137,40,1) 100%); 
   }
-
   .teal {
   background: rgb(7,164,180);
   background: linear-gradient(90deg, rgba(7,164,180,1) 50%, rgba(40,255,245,1) 100%); 
   }
-
   .purple {
   background: rgb(103,7,180);
   background: linear-gradient(90deg, rgba(103,7,180,1) 50%, rgba(220,40,255,1) 100%); 
   }
-
   .pink {
   background: rgb(224,1,182);
   background: linear-gradient(90deg, rgba(224,1,182,1) 50%, rgba(255,147,251,1) 100%); 
   }
-
   .container {
-    padding-left: 20px;
-    padding-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   }
-
-.footer {
+  .footer {
   background-image: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%); 
   color: #fff;
-}
+  }
