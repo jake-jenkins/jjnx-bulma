@@ -1,7 +1,7 @@
 ---
 title: Jake Jenkins, Software Developer
-layout: home
 color: homebg
+layout: home
 ---
 
 <div class="content">
@@ -15,7 +15,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 <div class="columns">
   <div class="column">
     <ul>
-<li>ASP.net</li>
+<li>ASP.net, C#, MVC</li>
 <li>HTML 5</li>
 <li>CSS 3</li>
 <li>SASS</li>
@@ -23,6 +23,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 <li>REACT</li>
 <li>NODE.js</li>
 <li>Java</li>
+<li>Bootstrap</li>
 </ul>
   </div>
   <div class="column">
