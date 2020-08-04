@@ -3,4 +3,4 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Content-Security-Policy: default-src 'self' 'unsafe-inline' jjnx.b-cdn.net cdn.jsdelivr.net
-  max-age=63072000; includeSubDomains; preload
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
