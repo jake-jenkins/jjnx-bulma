@@ -8,7 +8,7 @@ layout: home
 
 <h2 class="title is-2" style="color: #7918F2;">Welcome</h2>
 <p>
-Jake Jenkins is a Software Developer working in South Wales and the South West of England. Jake Jenkins has experience in NHS and Education sectors including technical and managerial roles. Jake has been consistantly building websites and modern web applications over the past ten years. 
+Jake Jenkins is a Software Developer working in South Wales and the South West of England. Jake Jenkins has experience in Healthcare and Education sectors including technical and managerial roles. Jake has been consistantly building websites and modern web applications over the past ten years. 
 </p>
 
 <h3 class="subtitle is-3" style="color: #4801FF;">Skills</h3>
