@@ -15,11 +15,10 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 <div class="columns">
   <div class="column">
     <ul>
-<li>ASP.net, C#, MVC</li>
+<li>ASP.net, C#</li>
 <li>Web API, Swagger, REST</li>
-<li>HTML 5</li>
-<li>CSS 3</li>
-<li>SASS</li>
+<li>MySQL, MS SQL, Oracle, Postgres</li>
+<li>HTML 5, CSS 3 and SASS</li>
 <li>Java Script</li>
 <li>REACT</li>
 <li>NODE.js</li>
@@ -45,7 +44,6 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 <li>Linux / UNIX</li>
 <li>Cloud</li>
 <li>Web Server</li>
-<li>MySQL, MS SQL, Oracle, Postgres</li>
 <li>Object Oriented Programming</li>
 <li>Software Development</li>
 <li>Database Design</li>
