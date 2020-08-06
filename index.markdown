@@ -29,10 +29,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
   <div class="column">
     <ul>
 <li>Web Design</li>
-<li>Jekyll</li>
-<li>WordPress</li>
-<li>Drupal</li>
-<li>Grav</li>
+<li>Jekyll, Grav, Wordpress, Drupal</li>
 <li>Search Engine Optimisation</li>
 <li>LAMP and LEMP Stack</li>
 </ul>
