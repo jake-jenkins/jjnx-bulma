@@ -1,6 +1,6 @@
 ---
 title: JakeJnx.com
-timezone: UTC
+timezone: Europe/London
 collections:
   portfolio:
     title: Portfolio
@@ -27,7 +27,7 @@ baseurl:
 url: https://jakejnx.com
 show_excerpts: false
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b %Y"
 include:
 - _headers
 theme: minima
