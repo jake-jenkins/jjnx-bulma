@@ -1,6 +1,5 @@
 ---
 title: JakeJnx.com
-timezone: UTC
 collections:
   portfolio:
     title: Portfolio
@@ -33,3 +32,4 @@ include:
 theme: minima
 plugins:
 - jekyll-seo-tag
+- jekyll-sitemap
