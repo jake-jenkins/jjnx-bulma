@@ -6,8 +6,9 @@ layout: page
 
 <div class="content">
 <ul>
-{% for portfolio in site.portfolio %}
-<li><a href="{{ portfolio.url }}"> {{ portfolio.title }}</a> - {{ portfolio.categories }} </li>
+{% assign portfolio1 = site.portfolio | sort: 'date' | reverse %}
+{% for portfolio in portfolio1 %}
+<li><a href="{{ portfolio.url }}"> {{ portfolio.title }}</a> - {{ portfolio.categories }} - {{ portfolio.date | date: "%B %Y"}} </li>
 {% endfor %}
 </ul>
 </div>
