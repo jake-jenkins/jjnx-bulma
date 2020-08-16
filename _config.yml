@@ -21,7 +21,7 @@ defaults:
 author:
   name: Jake Jenkins
   email: dev@jakejnx.com
-description: Jake Jenkins is a front end web developer in South Wales, United Kingdom.
+description: The professional portfolio of Jake Jenkins, a full stack software developer in South Wales, United Kingdom.
 baseurl: 
 url: https://jakejnx.com
 show_excerpts: false
