@@ -2,7 +2,7 @@
 title: ".net Core Web API"
 date: 2020-08-15 23:53:00 Z
 categories:
-- ".net core"
+- dotnetcore
 tags:
 - nhs
 - api
