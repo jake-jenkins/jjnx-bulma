@@ -12,7 +12,7 @@ layout: page
 <img alt="" src="https://jjnx.b-cdn.net/svgs/phone.svg" width="40px"> 029 21 175 123<br>
 </p>
 
-<p>Now on <a href="https://facebook.com/JakeJnx">Facebook</a>, <a href="https://www.linkedin.com/company/jakejnx-software-development">LinkedIn</a> and <a href="https://uk.trustpilot.com/review/jakejnx.com">Trustpilot.
+<p>Now on <a href="https://facebook.com/JakeJnx">Facebook</a>, <a href="https://www.linkedin.com/company/jakejnx-software-development">LinkedIn</a> and <a href="https://uk.trustpilot.com/review/jakejnx.com">Trustpilot.</a>
 
 
 <h1 class="subtitle is-3"><img alt="" src="https://jjnx.b-cdn.net/svgs/mail.svg" width="40px"> Send a Message</h1>
