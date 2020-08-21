@@ -4,13 +4,9 @@ permalink: "/services/"
 layout: page
 ---
 
-<p><br>
-<article class="message is-warning">
-  <div class="message-body">
-Please note that I am currently working in a full time permanent role and am not looking for new oppurtunities.
-  </div>
-</article>
-</p>
+<div class="w3-panel w3-pale-yellow">
+<p>Please note that I am currently working in a full time permanent role and am not looking for new opportunities.</p>
+</div>
 
 <h1 class="subtitle is-3">How I can help?</h1>
 <p>
