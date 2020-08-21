@@ -9,7 +9,7 @@ layout: page
 <p>&nbsp;</p><p>
 <img alt="" src="https://jjnx.b-cdn.net/svgs/github.svg" width="40px"> <a href="https://github.com/JakeJnx">JakeJnx</a><br>
 <img alt="" src="https://jjnx.b-cdn.net/svgs/twitter.svg" width="40px"> <a href="https://twitter.com/JakeJnx">JakeJnx</a><br>
-<img alt="" src="https://jjnx.b-cdn.net/svgs/phone.svg" width="40px"> +44 7927 044 111<br>
+<img alt="" src="https://jjnx.b-cdn.net/svgs/phone.svg" width="40px"> 029 21 175 123<br>
 </p>
 
 <p>Now on <a href="https://facebook.com/JakeJnx">Facebook</a>, <a href="https://www.linkedin.com/company/jakejnx-software-development">LinkedIn</a> and <a href="https://uk.trustpilot.com/review/jakejnx.com">Trustpilot.
