@@ -10,7 +10,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </p>
 
 <div class="w3-row">
-<div class="w3-third">
+<div class="w3-third w3-container">
 <h3 style="color: #4801FF;">Skills</h3>
 <ul>
 <li>HTML 5, CSS 3 and SASS</li>
@@ -27,7 +27,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </div>
 
 
-<div class="w3-third">
+<div class="w3-third w3-container">
 <ul>
 <li>Web Design</li>
 <li>Jekyll, Grav, Wordpress, Drupal</li>
@@ -36,7 +36,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </ul>
 </div>
 
-<div class="w3-third">
+<div class="w3-third w3-container">
 <ul>
 <li>Linux / UNIX</li>
 <li>Cloud</li>
@@ -50,7 +50,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 
 <h3 style="color: #7918F2;">Education</h3>
 <div class="w3-row">
-<div class="w3-half">
+<div class="w3-half w3-container">
 <ul>
 <li>Post Graduate Diploma Computing and Information Systems (DISTINCTION)
 <ul>
@@ -63,7 +63,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </li></ul></ul>
 </div>
 
-<div class="w3-half">
+<div class="w3-half w3-container">
 <p>
 <a href="https://www.testdome.com/cert/8a81666124a54bc49a7af8d38b118aaf">
 <img src="/assets/tdc_javascript.PNG" alt="Jake has passed the JavaScript test, ranking in the Top 10%"></a>
@@ -73,7 +73,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </div>
 
 <div class="w3-row">
-<div class="w3-half">
+<div class="w3-half w3-container">
 <h3 style="color: #4801FF;">Other Education</h3>
 <ul>
 <li>BSc Adult Nursing</li>
@@ -87,7 +87,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 </ul>
 </div>
 
-<div class="w3-half">
+<div class="w3-half w3-container">
 <h3 style="color: #4801FF;">Professional Qualifications</h3>
 <ul>
 <li>CodeAcademy Courses
