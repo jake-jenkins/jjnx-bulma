@@ -46,7 +46,7 @@ Jake Jenkins is a Software Developer working in South Wales and the South West o
 <li>Database Design</li>
 </ul>
 </div>
-</div>
+
 
 <h3 style="color: #7918F2;">Education</h3>
 <div class="w3-row">
