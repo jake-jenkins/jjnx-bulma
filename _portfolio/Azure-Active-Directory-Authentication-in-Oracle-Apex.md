@@ -23,7 +23,6 @@ tags:
 subtitle: Active Directory
 icon: azure
 color: teal
-layout: portfolio
 ---
 
 I have recently integrated an Oracle Apex app to utilise Microsoft Azure Active Directory to authenticate users. The authentication sends the username from Azure and permissions are granted in an authorisation table in the Apex app.

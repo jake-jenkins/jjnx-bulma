@@ -18,7 +18,6 @@ tags:
 subtitle: Low Code
 icon: intranet
 color: blue
-layout: portfolio
 ---
 
 A large university in Wales with approximately 3,000 staff required a new intranet solution which integrated with Office 365 and allowed management of bilingual content.

@@ -23,7 +23,6 @@ tags:
 subtitle: Wordpress, HTML, CSS
 icon: love
 color: orange
-layout: portfolio
 ---
 
 A new concept sexual health clinic was opened in central London to reduce rates of HIV

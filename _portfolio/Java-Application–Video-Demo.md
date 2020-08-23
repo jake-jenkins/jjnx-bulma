@@ -8,7 +8,6 @@ tags:
 subtitle: Java
 icon: java
 color: pink
-layout: portfolio
 ---
 
 <video width="100%" loop muted autoplay preload="auto">

@@ -12,7 +12,6 @@ tags:
 subtitle: Java
 icon: react
 color: teal
-layout: portfolio
 ---
 
 I have started learning REACT and have created my first app. Once I have some significant progress I will post it right here

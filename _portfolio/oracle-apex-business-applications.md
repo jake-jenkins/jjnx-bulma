@@ -23,7 +23,6 @@ tags:
 subtitle: CSS, JavaScript, SQL
 icon: apps
 color: green
-layout: portfolio
 ---
 
 Whilst working in London, the IT director encouraged Jake to evaluate the potential to use Oracle Apex to develop small business apps for the hospital. Jake became immersed in learning how to develop and make full use of the rapid app platform and has since built several applications which are still in production today.

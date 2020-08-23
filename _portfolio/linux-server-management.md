@@ -29,7 +29,6 @@ subtitle: LAMP, LEMP, Nginx, Apache
 summary: LEMP, LAMP, Cloud
 icon: ubuntu
 color: orange
-layout: portfolio
 ---
 
 I have worked on a number of projects within work, but also in my free time with Dev Ops. I am passionate about cloud hosting and making things work.

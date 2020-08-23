@@ -32,7 +32,6 @@ summary: Tribal – Student Information Desk – for large university client.
 subtitle: HTML, CSS, JQuery
 icon: crm
 color: green
-layout: portfolio
 ---
 
 Tribal’s Student Information Desk is an enquiry management software systems. The system allows students to view frequently asked questions (FAQs) and to create a help call, appointment booking and case management.

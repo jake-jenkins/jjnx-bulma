@@ -19,7 +19,6 @@ tags:
 subtitle: PHP
 icon: wizard
 color: pink
-layout: portfolio
 ---
 
 In 2003 during Jake’s time at university, a group of friends identified a need for an online peer support network for Lesbian, Gay. Bisexual and Trans\* students. WayGay.co.uk was an online support forum allowing users to sign up, post stories of their experience and support others facing similar challenges. It also helped to unite university groups.

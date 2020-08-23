@@ -2,38 +2,69 @@
 layout: default
 ---
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<!-- waves -->
 
-  <header class="post-header">
-    <h1 class="title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+<div class="wave-container" style="background-image: url(/assets/img/blog/{{ page.image }}); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+  <div class="container jct">
+  <h1><span style="background-color: rgba(0, 0, 255, 0.5); padding: 10px;">{{ page.title | escape }}</span></h1>
+  <p class="post-meta">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
+        -%}
+        <time
+          class="dt-published"
+          datetime="{{ page.date | date_to_xmlschema }}"
+          itemprop="datePublished"
+        >
+          {{ page.date | date: date_format }}
+        </time>
+        {%- if page.modified_date -%} ~ {%- assign mdate = page.modified_date |
+        date_to_xmlschema -%}
+        <time
+          class="dt-modified"
+          datetime="{{ mdate }}"
+          itemprop="dateModified"
+        >
           {{ mdate | date: date_format }}
         </time>
-      {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}</p>
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+        {%- endif -%} {%- if page.author -%} • {% for author in page.author %}
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name"
+            >{{ author }}</span
+          ></span
+        >
+        {%- if forloop.last == false %}, {% endif -%} {% endfor %} {%- endif -%}
+      </p>
+    <p>&nbsp;</p>
+      </div>
+    
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,218.7C640,224,800,256,960,261.3C1120,267,1280,245,1360,234.7L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+<!-- end waves -->
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+<div class="container jct">
+
+<div class="content container jjp">
+
+<article
+    class="post h-entry"
+    itemscope
+    itemtype="http://schema.org/BlogPosting"
+  >
+<h3>{{ page.subtitle | escape }}</h3>
+
+    <div class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+<p>&nbsp;</p>
+  <div class="tags">
+    {% for tags in page.tags %}
+        <span class="jtag"> {{ tags }} </span>
+          {% endfor %}
+      </div>
+  
+</div>

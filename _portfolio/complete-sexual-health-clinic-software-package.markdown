@@ -13,7 +13,6 @@ tags:
 subtitle: Clinic99.com
 icon: 
 color: blue
-layout: portfolio
 ---
 
 Prior to Jake's developer career he worked in sexual health as a nurse practioner.  Jake worked as a nurse in Bristol Sexual Health, 56 Dean Street, Dean Street Express and Cardiff Royal Infirmary.

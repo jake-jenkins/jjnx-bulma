@@ -16,7 +16,6 @@ summary: A drupal website to promote sexual health services in Bristol.
 subtitle: PHP
 icon: drupal
 color: blue
-layout: portfolio
 ---
 
 Whilst working in the clinic, a competitor private clinic was targeting advertising to people searching for the local NHS service. Tactics were being used which some felt were misleading patients to attend a private clinic who were looking for the publically funded service.

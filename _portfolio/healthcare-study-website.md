@@ -8,7 +8,6 @@ tags:
 subtitle: Wordpress, HTML, CSS
 icon: wordpress
 color: blue
-layout: portfolio
 ---
 
 A wordpress template was designed and a site built to help recruit gay and bisexual men in London onto an anal cancer study.

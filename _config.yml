@@ -6,9 +6,11 @@ collections:
     output: true
     permalink: "/:collection/:categories/:name"
     label: portfolio
-  posts:
-    title: Posts
+  blog:
+    title: Blog
     output: true
+    permalink: "/:collection/:categories/:name"
+    label: blog
   uploads:
     title: Uploads
     output: true
@@ -18,6 +20,11 @@ defaults:
     type: portfolio
   values:
     layout: portfolio
+- scope:
+    path: ''
+    type: blog
+  values:
+    layout: post
 author:
   name: Jake Jenkins
   email: dev@jakejnx.com

@@ -6,7 +6,6 @@ categories:
 subtitle: Wordpress, HTML, CSS
 icon: cell
 color: teal
-layout: portfolio
 ---
 
 A european wide medical conference required a website to help promote the event, list the speakers and order of events.
