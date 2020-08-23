@@ -9,7 +9,7 @@ layout: home
 JakeJnx is a software development company based in South Wales.  We provide custom app building, website design and support in Cardiff, Newport and Bristol. Jake Jenkins has experience in Healthcare and Education sectors including technical and managerial roles. Jake has been consistantly building websites and modern web applications over the past ten years.</p>
 
 <h2>What makes us different?</h2>
-<ul>
+<ul class="w3-ul">
 <li>Our staff are qualified with over 20 years experience</li>
 <li>Our customers are our partners</li>
 <li>We get things done, right, the first time</li>
@@ -19,30 +19,10 @@ JakeJnx is a software development company based in South Wales.  We provide cust
 
 </ul>
 
-<h2>What we can do for you?</h2>
-<ul>
-<li>Bespoke Business App Development</li>
-<li>Build custom web applications</li>
-<li>Design Software</li>
-<li>Web Design</li>
-<li>Improve your website</li>
-<li>Integrate multiple applications</li>
-<li>Manage Web Servers and mission-critical infrastructure</li>
-<li>Improve your website performance</li>
-</ul>
-
-<h2>Why you should speak to us?</h2>
-<ul>
-<li>We love to work with our customers</li>
-<li>We always go the extra mile</li>
-<li>We are experts in our feild</li>
-<li>We make the complex, simple and easy to understand</li>
-</ul>
-
 <h2>Our History</h2>
 <p>We provide Software Development and Web Design services in South Wales and Bristol.</p>
 <p>We have worked with many different technologies over time, some of which are;</p>
-<ul>
+<ul class="w3-ul">
 <li>HTML, CSS and SASS</li>
 <li>C# and .net</li>
 <li>MVC</li>
